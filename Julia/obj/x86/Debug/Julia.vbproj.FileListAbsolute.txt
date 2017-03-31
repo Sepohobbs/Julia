@@ -1,0 +1,13 @@
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\bin\Debug\Julia.exe
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\bin\Debug\Julia.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\bin\Debug\Julia.xml
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\MainWindow.baml
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\MainWindow.g.vb
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\Application.g.vb
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\Julia_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\Julia.g.resources
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\Julia.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\Julia.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\Julia.exe
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\Julia.xml
+C:\Users\User\documents\visual studio 2010\Projects\Julia\Julia\obj\x86\Debug\Julia.pdb
